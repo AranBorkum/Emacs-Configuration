@@ -1,3 +1,6 @@
+<p align="center"><img width=50% src="https://github.com/AranBorkum/Emacs-Configuration/ExampleSnapshot.png"></p>
+
+
 # My Emacs configuration
 ![Emacs](https://img.shields.io/badge/emacs_lisp-current-brightgreen.svg)
 ![Date](https://img.shields.io/badge/Date-Jan2019-brightgreen.svg)
