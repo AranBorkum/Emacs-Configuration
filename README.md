@@ -1,4 +1,4 @@
-<p align="center"><img width=50% src="https://github.com/AranBorkum/Emacs-Configuration/ExampleSnapshot.png"></p>
+<p align="center"><img width=50% src="https://github.com/AranBorkum/Emacs-Configuration/blob/master/ExampleSnapshot.png"></p>
 
 
 # My Emacs configuration
